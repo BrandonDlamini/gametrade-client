@@ -4,8 +4,7 @@ import './App.css';
 import Routes from './Routes';
 import Nav from "react-bootstrap/Nav";
 import {LinkContainer} from 'react-router-bootstrap';
-import ViewGames from './components/ViewGames'
-import AddGame from './components/AddGame'
+
 
 
 

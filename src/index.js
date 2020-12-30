@@ -6,7 +6,7 @@ import ApolloClient from 'apollo-boost';
 import {ApolloProvider} from '@apollo/react-hooks';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter as Router } from 'react-router-dom';
-import gql from 'graphql-tag';
+
 
 const client = new ApolloClient({
   uri:"https://htbs22kx91.execute-api.us-east-1.amazonaws.com/dev/graphql", 

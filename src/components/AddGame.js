@@ -2,7 +2,6 @@ import React, {useState} from 'react';
 import {useMutation} from '@apollo/react-hooks';
 import  gql from 'graphql-tag';
 import Form from 'react-bootstrap/Form';
-import FormControl from 'react-bootstrap/FormControl';
 import Button from 'react-bootstrap/Button';
 
 const ADD_GAME_MUTATION =gql`
